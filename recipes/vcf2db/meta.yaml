@@ -16,6 +16,7 @@ requirements:
     - python
     - perl
     - nomkl # [unix]
+    - cffi
     - snappy
     - python-snappy
     - sqlalchemy
@@ -26,6 +27,7 @@ requirements:
   run:
     - python
     - nomkl # [unix]
+    - cffi
     - snappy
     - python-snappy
     - sqlalchemy
